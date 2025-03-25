@@ -1,0 +1,15 @@
+[package]
+name = "Dynamic-APR-adjustment-contracts"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0x2091cc1be5c9b516db7a615a23629aee75b285f67150d435f1d3226d6cca7634"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
