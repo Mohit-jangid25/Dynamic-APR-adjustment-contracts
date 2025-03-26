@@ -69,8 +69,7 @@ The **DynamicAPR** contract allows owners to:
 
 - **Blockchain Network**: Aptos
 - **Contract Type**: Move Smart Contract
-- **Deployment Date**: [Insert Deployment Date]
-- **Contract Address**: [Insert Contract Address]
+- **Contract Address**: 0x08d27c96fd054cd63fe48d81ca0f750d6419aab147a28494a6a2cc8241db76e1
 
 ### Security & Ownership
 
