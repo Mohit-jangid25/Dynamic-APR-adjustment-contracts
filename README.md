@@ -1,6 +1,4 @@
-Certainly! Below is a README template for your Move project based on the provided code:
 
----
 
 # DynamicAPR Project
 
